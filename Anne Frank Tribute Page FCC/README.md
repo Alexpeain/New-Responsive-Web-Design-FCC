@@ -1,2 +1,2 @@
 # learn-html-css
-This is for introduction of Using Github
+This is an introduction to Github

@@ -1,0 +1,75 @@
+#author{
+    font-family: Georgia, serif;
+    text-align: center;
+}
+
+body{
+    background-color: black;
+    color: #ECEFF1;
+    text-align: center;
+  }
+  
+  img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+  }
+  #img-caption{
+    text-align: center;
+  }
+  div.tribute-info{
+    text-align: center;
+  }
+  
+  ul {
+     max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+  }
+  blockquote{
+    font-style: italic;
+    max-width: 545px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+  }
+  .left{
+    margin: 0 auto 50px auto;
+    text-align: right;
+  }
+body{
+    background-color: black;
+    color: #ECEFF1;
+    text-align: center;
+}
+  
+img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+#img-caption{
+    text-align: center;
+}
+div.tribute-info{
+    text-align: center;
+}
+  
+ul {
+     max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+}
+blockquote{
+    font-style: italic;
+    max-width: 545px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+}
+.left{
+    margin: 0 auto 50px auto;
+    text-align: right;
+}
